@@ -8,4 +8,4 @@ Detect face characteristics and humor from images
 *   Print informations about the face
 *   Draw lines and legends around faces 
 *   Detect labels
-*   Show and sabe the image
+*   Show and save the image

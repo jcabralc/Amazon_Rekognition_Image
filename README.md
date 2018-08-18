@@ -9,3 +9,5 @@ Detect face characteristics and humor from images
 *   Draw lines and legends around faces 
 *   Detect labels
 *   Show and save the image
+
+[Blog Post](https://jcabralc.wordpress.com/2018/02/04/amazon-rekognition/)
